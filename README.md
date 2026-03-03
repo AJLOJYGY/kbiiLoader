@@ -18,8 +18,6 @@ HTML5 | Tailwind CSS | Vanilla JavaScript | LocalStorage API | Web Audio API | C
 
 ## 📁 Installation:
 ```bash
-git clone https://github.com/yourusername/kbbi-loader.git
-cd kbbi-loader
-# Add your hasil_final_AZ.txt file
-# (Optional) Add kids.mp3 for background music
+git clone https://github.com/ajlojygy/kbbiLoader.git
+cd kbbiLoader
 # Open index.html in browser
